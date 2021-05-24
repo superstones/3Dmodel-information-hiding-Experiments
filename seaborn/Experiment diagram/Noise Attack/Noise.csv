@@ -1,0 +1,86 @@
+Method,Correkatuib(Corr),Noise Ratio/%
+eha,1.0,0
+eha,0.9425,5
+eha,0.8734,10
+eha,0.8565,15
+eha,0.7875,20
+eha,0.7658,25
+eha,0.7054,30
+eha,0.6824,35
+eha,0.6615,40
+eha,0.5835,45
+eha,0.5067,50
+eha,0.4057,55
+eha,0.3857,60
+eha,0.3898,65
+eha,0.3654,70
+eha,0.3057,75
+eha,0.1524,80
+eha,0.1015,85
+eha,0.0535,90
+eha,0.0224,95
+eha,0,100
+rdh,1.0,0
+rdh,0.9625,5
+rdh,0.8834,10
+rdh,0.8765,15
+rdh,0.7965,20
+rdh,0.7743,25
+rdh,0.7147,30
+rdh,0.7256,35
+rdh,0.7152,40
+rdh,0.5924,45
+rdh,0.6034,50
+rdh,0.4354,55
+rdh,0.4256,60
+rdh,0.4023,65
+rdh,0.3754,70
+rdh,0.3547,75
+rdh,0.2045,80
+rdh,0.1543,85
+rdh,0.1034,90
+rdh,0.0557,95
+rdh,0,100
+mfs,1.0,0
+mfs,0.9667,5
+mfs,0.9368,10
+mfs,0.9054,15
+mfs,0.8854,20
+mfs,0.8353,25
+mfs,0.7826,30
+mfs,0.7364,35
+mfs,0.7564,40
+mfs,0.6867,45
+mfs,0.6653,50
+mfs,0.6357,55
+mfs,0.5357,60
+mfs,0.5034,65
+mfs,0.4135,70
+mfs,0.4022,75
+mfs,0.3031,80
+mfs,0.2045,85
+mfs,0.1154,90
+mfs,0.0547,95
+mfs,0,100
+our method,1.0,0
+our method,0.9825,5
+our method,0.9768,10
+our method,0.9798,15
+our method,0.9054,20
+our method,0.8521,25
+our method,0.8054,30
+our method,0.7564,35
+our method,0.7865,40
+our method,0.7062,45
+our method,0.6854,50
+our method,0.6575,55
+our method,0.5554,60
+our method,0.5157,65
+our method,0.5041,70
+our method,0.4224,75
+our method,0.3321,80
+our method,0.2215,85
+our method,0.1565,90
+our method,0.0774,95
+our method,0,100
+

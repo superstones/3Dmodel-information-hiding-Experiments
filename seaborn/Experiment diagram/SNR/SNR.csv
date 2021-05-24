@@ -1,0 +1,86 @@
+Method,SNR/dB,k(Embedding Capacity Index $2^{k}$)/b
+eha,100,0
+eha,95,1
+eha,90,2
+eha,90,3
+eha,88,4
+eha,87,5
+eha,85,6
+eha,84,7
+eha,83,8
+eha,80,9
+eha,78,10
+eha,77,11
+eha,75,12
+eha,60,13
+eha,57,14
+eha,56,15
+eha,52,16
+eha,50,17
+eha,47,18
+eha,43,19
+eha,41,20
+rdh,100,0
+rdh,96,1
+rdh,91,2
+rdh,90,3
+rdh,89,4
+rdh,88,5
+rdh,86,6
+rdh,85,7
+rdh,84,8
+rdh,82,9
+rdh,79,10
+rdh,76,11
+rdh,70,12
+rdh,59,13
+rdh,58,14
+rdh,55,15
+rdh,53,16
+rdh,50,17
+rdh,46,18
+rdh,43,19
+rdh,42,20
+mfs,100,0
+mfs,97,1
+mfs,91,2
+mfs,90,3
+mfs,89,4
+mfs,88,5
+mfs,87,6
+mfs,86,7
+mfs,85,8
+mfs,84,9
+mfs,83,10
+mfs,82,11
+mfs,77,12
+mfs,60,13
+mfs,55,14
+mfs,54,15
+mfs,53,16
+mfs,51,17
+mfs,48,18
+mfs,46,19
+mfs,45,20
+our method,100,0
+our method,98,1
+our method,92,2
+our method,91,3
+our method,90,4
+our method,90,5
+our method,88,6
+our method,87,7
+our method,86,8
+our method,85,9
+our method,84,10
+our method,83,11
+our method,78,12
+our method,61,13
+our method,59,14
+our method,58,15
+our method,57,16
+our method,56,17
+our method,54,18
+our method,52,19
+our method,51,20
+

@@ -1,0 +1,66 @@
+Method,Correkatuib(Corr),Simplification Per/%
+eha,1.0,0
+eha,0.9423,5
+eha,0.8834,10
+eha,0.8665,15
+eha,0.8375,20
+eha,0.8058,25
+eha,0.7854,30
+eha,0.7524,35
+eha,0.7315,40
+eha,0.7035,45
+eha,0.6867,50
+eha,0.6557,55
+eha,0.5767,60
+eha,0.4887,65
+eha,0.4265,70
+
+rdh,1.0,0
+rdh,0.9523,5
+rdh,0.8944,10
+rdh,0.8695,15
+rdh,0.8476,20
+rdh,0.8247,25
+rdh,0.7935,30
+rdh,0.7751,35
+rdh,0.7554,40
+rdh,0.7245,45
+rdh,0.6952,50
+rdh,0.6753,55
+rdh,0.5963,60
+rdh,0.5046,65
+rdh,0.4357,70
+
+mfs,1.0,0
+mfs,0.9635,5
+mfs,0.9046,10
+mfs,0.8864,15
+mfs,0.8657,20
+mfs,0.8437,25
+mfs,0.8035,30
+mfs,0.7864,35
+mfs,0.7652,40
+mfs,0.7367,45
+mfs,0.7051,50
+mfs,0.6822,55
+mfs,0.6055,60
+mfs,0.5264,65
+mfs,0.4586,70
+
+our method,1.0,0
+our method,0.9665,5
+our method,0.9368,10
+our method,0.9121,15
+our method,0.8896,20
+our method,0.8647,25
+our method,0.8467,30
+our method,0.8246,35
+our method,0.7954,40
+our method,0.7652,45
+our method,0.7358,50
+our method,0.7164,55
+our method,0.6575,60
+our method,0.6085,65
+our method,0.5567,70
+
+
